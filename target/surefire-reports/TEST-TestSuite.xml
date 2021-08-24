@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.192" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="8.701" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="gopherProxySet" value="false"/>
     <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ID"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/kitabisa.com/eclipse-workspace/APITest/target/surefire/surefirebooter15394046687293371899.jar /Users/kitabisa.com/eclipse-workspace/APITest/target/surefire 2021-08-24T23-41-59_159-jvmRun1 surefire5115325466314321481tmp surefire_011282140168392547359tmp"/>
+    <property name="sun.java.command" value="/Users/kitabisa.com/eclipse-workspace/APITest/target/surefire/surefirebooter14606715571833540458.jar /Users/kitabisa.com/eclipse-workspace/APITest/target/surefire 2021-08-25T00-55-18_913-jvmRun1 surefire2423132369322796756tmp surefire_04880152758212626698tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/kitabisa.com/eclipse-workspace/APITest/target/test-classes:/Users/kitabisa.com/eclipse-workspace/APITest/target/classes:/Users/kitabisa.com/.m2/repository/javax/xml/bind/jaxb-api/2.3.0/jaxb-api-2.3.0.jar:/Users/kitabisa.com/.m2/repository/org/testng/testng/6.14.3/testng-6.14.3.jar:/Users/kitabisa.com/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar:/Users/kitabisa.com/.m2/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar:/Users/kitabisa.com/.m2/repository/com/aventstack/extentreports/4.0.9/extentreports-4.0.9.jar:/Users/kitabisa.com/.m2/repository/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar:/Users/kitabisa.com/.m2/repository/org/mongodb/mongodb-driver/3.3.0/mongodb-driver-3.3.0.jar:/Users/kitabisa.com/.m2/repository/org/mongodb/mongodb-driver-core/3.3.0/mongodb-driver-core-3.3.0.jar:/Users/kitabisa.com/.m2/repository/org/mongodb/bson/3.3.0/bson-3.3.0.jar:/Users/kitabisa.com/.m2/repository/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar:/Users/kitabisa.com/.m2/repository/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar:/Users/kitabisa.com/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/kitabisa.com/.m2/repository/commons-codec/commons-codec/1.9/commons-codec-1.9.jar:/Users/kitabisa.com/.m2/repository/org/apache/httpcomponents/httpmime/4.5.2/httpmime-4.5.2.jar:/Users/kitabisa.com/.m2/repository/io/rest-assured/rest-assured/3.0.2/rest-assured-3.0.2.jar:/Users/kitabisa.com/.m2/repository/org/codehaus/groovy/groovy/2.4.6/groovy-2.4.6.jar:/Users/kitabisa.com/.m2/repository/org/codehaus/groovy/groovy-xml/2.4.6/groovy-xml-2.4.6.jar:/Users/kitabisa.com/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/kitabisa.com/.m2/repository/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3.jar:/Users/kitabisa.com/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/kitabisa.com/.m2/repository/io/rest-assured/xml-path/3.0.2/xml-path-3.0.2.jar:/Users/kitabisa.com/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar:/Users/kitabisa.com/.m2/repository/io/rest-assured/json-path/3.3.0/json-path-3.3.0.jar:/Users/kitabisa.com/.m2/repository/org/codehaus/groovy/groovy-json/2.4.15/groovy-json-2.4.15.jar:/Users/kitabisa.com/.m2/repository/io/rest-assured/rest-assured-common/3.3.0/rest-assured-common-3.3.0.jar:/Users/kitabisa.com/.m2/repository/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar:/Users/kitabisa.com/.m2/repository/junit/junit/4.10/junit-4.10.jar:/Users/kitabisa.com/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar:"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/kitabisa.com/eclipse-workspace/APITest/target/surefire/surefirebooter15394046687293371899.jar"/>
+    <property name="surefire.real.class.path" value="/Users/kitabisa.com/eclipse-workspace/APITest/target/surefire/surefirebooter14606715571833540458.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="9.0.4+11"/>
@@ -60,5 +60,6 @@
     <property name="java.class.version" value="53.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="gtest" classname="Suite.test" time="2.504"/>
+  <testcase name="GET_List" classname="Suite.test" time="1.829"/>
+  <testcase name="POST_List" classname="Suite.test" time="1.244"/>
 </testsuite>

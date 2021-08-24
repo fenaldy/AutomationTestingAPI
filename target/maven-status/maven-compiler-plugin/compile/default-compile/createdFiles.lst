@@ -1,2 +1,4 @@
-GET/GET_List.class
 Scenarios/Scenarios_GET_List.class
+GET/POST_List.class
+GET/GET_List.class
+Scenarios/Scenarios_POST_List.class
