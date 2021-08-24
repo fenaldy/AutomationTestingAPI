@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-24T08:24:42Z" name="Suite" finished-at="2021-08-24T08:24:45Z" duration-ms="2824">
+    <groups>
+    </groups>
+    <test started-at="2021-08-24T08:24:42Z" name="Test" finished-at="2021-08-24T08:24:45Z" duration-ms="2824">
+      <class name="Suite.test">
+        <test-method signature="gtest()[pri:1, instance:Suite.test@2a3b5b47]" started-at="2021-08-24T08:24:43Z" name="gtest" finished-at="2021-08-24T08:24:45Z" duration-ms="2806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gtest -->
+      </class> <!-- Suite.test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
